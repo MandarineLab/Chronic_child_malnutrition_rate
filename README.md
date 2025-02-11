@@ -37,5 +37,5 @@ Para el análisis y visualización de datos, se han empleado diversas herramient
 Si deseas contribuir con mejoras en el análisis o visualización de los datos, no dudes en contactarnos o hacer un pull request.
 
 ## 📧 Contacto
-Para más información, puedes escribirnos a [tuemail@pucp.edu.pe](chipana.l@pucp.edu.pe.
+Para más información, escribeme a [chipana.l@pucp.edu.pe](chipana.l@pucp.edu.pe).
 
