@@ -34,7 +34,7 @@ Para el análisis y visualización de datos, se han empleado diversas herramient
 4. Revisar el `Diccionario.xlsx` para comprender las variables del dataset.
 
 ## 🤝 Contribuciones
-Si deseas contribuir con mejoras en el análisis o visualización de los datos, no dudes en contactarnos o hacer un pull request.
+Si deseas contribuir con mejoras en el análisis o visualización de los datos, no dudes en contactarme o hacer un pull request.
 
 ## 📧 Contacto
 Para más información, escribeme a [chipana.l@pucp.edu.pe](chipana.l@pucp.edu.pe).
